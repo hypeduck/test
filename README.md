@@ -4,8 +4,7 @@
 ```mermaid
 pie Develop
   title Development
-    "Front" 50
-    "Back" 50
-    "DevOps" 0
-
+    "Front" : 50;
+    "Back" : 50;
+    "DevOps" : 0;
 ```
